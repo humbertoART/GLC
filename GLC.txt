@@ -1,1 +1,4 @@
-A -> abB | aB | cdg | cdeB | cdfB
+S -> aC | SB
+A -> bSCa | ad
+B -> aSB | bBC
+C -> aBC | ad
