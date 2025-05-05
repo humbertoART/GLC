@@ -1,5 +1,1 @@
-S -> ABaC
-A -> BC
-B -> b | epsilon
-C -> D | epsilon
-D -> d
+A -> abB | aB | cdg | cdeB | cdfB
