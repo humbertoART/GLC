@@ -1,6 +1,5 @@
-S -> AB
-A -> E
-B -> C
-C -> D
-D -> b
-E -> a
+S -> ABaC
+A -> BC
+B -> b | epsilon
+C -> D | epsilon
+D -> d
