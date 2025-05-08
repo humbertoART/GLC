@@ -1,5 +1,3 @@
-S -> ABa
-A -> aab
-B -> Ac
-
-
+S -> abAB
+A -> bAB | epsilon
+B -> BAa | epsilon
