@@ -1,3 +1,4 @@
-S -> abAB
-A -> bAB | epsilon
-B -> BAa | epsilon
+S -> ABa
+A -> aab
+B -> Ac
+
