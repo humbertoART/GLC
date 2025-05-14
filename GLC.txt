@@ -1,3 +1,3 @@
-S -> bA | aB
-A -> bAA | aS | a
-B -> aBB | bS | a
+S -> Aab | B
+A -> BC | Sda
+B -> e | epsilon
